@@ -1,0 +1,8 @@
+E:\CS\PruebasGitHub\PruebasGitHub\PruebasGitHub\bin\Debug\PruebasGitHub.exe
+E:\CS\PruebasGitHub\PruebasGitHub\PruebasGitHub\bin\Debug\PruebasGitHub.pdb
+E:\CS\PruebasGitHub\PruebasGitHub\PruebasGitHub\obj\Debug\PruebasGitHub.csprojResolveAssemblyReference.cache
+E:\CS\PruebasGitHub\PruebasGitHub\PruebasGitHub\obj\Debug\PruebasGitHub.Form1.resources
+E:\CS\PruebasGitHub\PruebasGitHub\PruebasGitHub\obj\Debug\PruebasGitHub.Properties.Resources.resources
+E:\CS\PruebasGitHub\PruebasGitHub\PruebasGitHub\obj\Debug\PruebasGitHub.csproj.GenerateResource.Cache
+E:\CS\PruebasGitHub\PruebasGitHub\PruebasGitHub\obj\Debug\PruebasGitHub.exe
+E:\CS\PruebasGitHub\PruebasGitHub\PruebasGitHub\obj\Debug\PruebasGitHub.pdb
